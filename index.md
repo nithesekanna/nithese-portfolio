@@ -5,7 +5,7 @@ title: Nithese Kanna – Java Developer Portfolio
 
 # 👋 Hi, I'm Nithese Kanna
 
-![Nithese Kanna]({{ site.baseurl }}/assets/img/profile.jpg){: width="150" style="border-radius: 50%; margin-top: 20px;" }
+![Nithese Kanna](https://github.com/nithesekanna/nithese-portfolio/blob/main/assets/img/profile.jpg){: width="150" style="border-radius: 50%; margin-top: 20px;" }
 
 Java Backend Developer with 3+ years of experience in building scalable web applications using **Spring Boot**, **Hibernate**, and **RESTful APIs**.
 
