@@ -64,8 +64,48 @@ Claim lifecycle management: validation, surveyor assignment, approval, payout.
 
 ---
 
+## 👨‍💻 More About Me
+
+I'm known for my **strong debugging skills**, analytical problem-solving approach, and for being a **dependable team player**. Whether it's optimizing backend performance or untangling tricky bugs, I enjoy getting to the root of the issue and building clean, efficient solutions.
+
+I’m especially passionate about **microservices** and **clean architecture**, and I constantly explore better ways to design scalable and modular applications.
+
+You can check out my code here:
+
+- 🔐 [Spring Security with JWT](https://github.com/nithesekanna/Spring_security_with_jwt)
+- ⚙️ [Microservices Sample](https://github.com/nithesekanna/MicroService)
+
+---
+
+## 🎯 Career Goals
+
+### 📌 Short-term (1–2 years)
+
+- Work in a **fast-paced product-based company** that values quality engineering.
+- Deepen my expertise in **cloud-native backend development** and **microservice orchestration** using tools like Docker, Kubernetes, and CI/CD pipelines.
+- Expand my knowledge in **distributed systems**, API gateways, and domain-driven design.
+
+### 🚀 Long-term (5+ years)
+
+- Become a **Solution Architect** with mastery in backend systems, performance optimization, and security design.
+- Contribute to **open source frameworks** and eventually lead a backend engineering team to deliver high-impact software solutions.
+
+---
+
+## 🎨 Hobbies
+
+Outside of tech, I’m a passionate **photographer** who loves capturing everyday moments through unique angles and natural light. Whether it’s landscapes, street photography, or candid people shots, the lens helps me see the world more creatively.
+
+---
+
 ## 📬 Contact Me
 
 📧 [kannanithesea@gmail.com](mailto:kannanithesea@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/nithese-kanna)  
 📍 Tiruchirappalli, India
+
+---
+
+> “Clean code is not written by following rules. It is written by following your heart.”  
+> — Robert C. Martin
+
