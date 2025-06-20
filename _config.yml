@@ -1,5 +1,6 @@
 title: "Nithese Kanna – Java Portfolio"
 description: "Java Backend Developer | Spring Boot | Oracle | Hibernate"
-baseurl: "" 
-url: "https://your-github-username.github.io/nithese-portfolio"
+baseurl: "/nithese-portfolio"  # ✅ required for subfolder project
+url: "https://nithesekanna.github.io"
 theme: minima
+markdown: kramdown
