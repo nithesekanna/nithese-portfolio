@@ -1,71 +1,71 @@
 ---
 layout: default
-title: Nithese Kanna – Java Developer Portfolio
+title: Nithese Kanna – Java Backend Developer
 ---
 
-# 👋 Hi, I'm Nithese Kanna
-
-![Nithese Kanna]({{ site.baseurl }}/assets/img/profile.jpg){: width="150" style="border-radius: 50%; margin-top: 20px;" }
-
-Java Backend Developer with 3+ years of experience in building scalable web applications using **Spring Boot**, **Hibernate**, and **RESTful APIs**.
+<div class="profile">
+  <img src="{{ site.baseurl }}/assets/img/profile.jpg" alt="Nithese Kanna" class="profile-img" />
+  <h1>👋 Hi, I’m <span class="highlight">Nithese Kanna</span></h1>
+  <p class="subtitle">Java Backend Developer | Spring Boot | REST APIs | Hibernate</p>
+</div>
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-### System Engineer — Code Metric, Tiruchirappalli  
-*July 2022 – Present*
+### 🧑‍💻 Code Metric — System Engineer  
+📍 *Tiruchirappalli* | 📅 *July 2022 – Present*
 
-- Developed REST APIs using Spring Boot, Hibernate, Oracle/MySQL.
+- Developed scalable REST APIs with Spring Boot and Hibernate.
+- Integrated external services and reduced API latency by 30%.
 - Implemented Spring Security for authentication and authorization.
-- Reduced external API failure rate and improved response time by 30%.
-- Managed deployments and production maintenance.
+- Maintained production systems and deployment pipelines.
 
 ---
 
-## 🧠 Skills
+## 🧠 Technical Skills
 
-- **Languages:** Java 17  
-- **Frameworks:** Spring Boot, Spring Security, Hibernate  
-- **Databases:** Oracle, MySQL  
-- **Tools:** Postman, Swagger, GitHub Desktop, Tomcat 10
-
----
-
-## 🛠 Projects
-
-### Garage Portal  
-*Jul 2023 – Present*  
-Web app for vehicle garages to interact with insurers.
-
-- Designed backend with Spring Boot and Hibernate.
-- Implemented role-based access with Spring Security.
-- Integrated external APIs and deployed with Tomcat.
+<div class="skills">
+  <span>Java 17</span>
+  <span>Spring Boot</span>
+  <span>Spring Security</span>
+  <span>Hibernate</span>
+  <span>MySQL</span>
+  <span>Oracle</span>
+  <span>Postman</span>
+  <span>Swagger</span>
+  <span>Tomcat</span>
+  <span>Git</span>
+</div>
 
 ---
 
-### Insurance Claim Management System  
-*Jan 2023 – Jul 2023*  
-System to manage motor insurance claims.
+## 🚀 Projects
 
-- Created end-to-end claim processing APIs.
-- Migrated Spring Boot 2.x to 3.x.
-- Documented using Swagger and assisted UAT.
+### 🛠 Garage Portal  
+A web app enabling vehicle garages to raise claims and sync with insurance companies.
+
+- Role-based access (garage/admin) using Spring Security.
+- External API integration and full backend architecture.
+
+### 🛡 Insurance Claim Management  
+Claim lifecycle management: validation, surveyor assignment, approval, payout.
+
+- Migrated app from Spring Boot 2.x to 3.x (Jakarta EE).
+- Full-stack backend system + UAT + API docs.
 
 ---
 
 ## 🎓 Education
 
-**B.E. in Electrical and Electronics Engineering**  
-M.I.E.T Engineering College, Trichy (2018–2022)  
-**CGPA:** 8.2 / 10
+**B.E. Electrical and Electronics Engineering**  
+📍 M.I.E.T Engineering College, Trichy (2018–2022)  
+🎓 CGPA: 8.2 / 10
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
-- 📧 [kannanithesea@gmail.com](mailto:kannanithesea@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nithese-kanna)  
-- 📍 Tiruchirappalli, India
-
----
+📧 [kannanithesea@gmail.com](mailto:kannanithesea@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nithese-kanna)  
+📍 Tiruchirappalli, India
